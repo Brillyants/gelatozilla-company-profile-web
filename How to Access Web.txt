@@ -1,0 +1,7 @@
+How to access Gelatozilla
+1. Open XAMPP
+2. Activate module Apache and MySQL
+3. Insert website file to htdocs folder (XAMPP)
+4. Access website in web browser by opening this url:
+
+http://localhost/gelatozilla/home.php
